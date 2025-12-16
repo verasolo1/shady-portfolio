@@ -16,7 +16,7 @@ const awards = [
   {
     title: "iPhone 16 Award for Security Research",
     organization: "SAFCSP - BlackHat MEA",
-    date: "November 2024",highlight: false,
+    date: "November 2024",
     description: "Rewarded with an iPhone 16 for Remotely Rebooting a Vital Signs Monitor Device",
     icon: Smartphone,
     highlight: false,
